@@ -31,7 +31,7 @@ def monopoly_with_third_tier
   }
   new_hash[:railroads][:names] = {
     :reading_railroad => {},
-    :pennsula
+    :pennsylvania_railroad => {}
   }  
   new_hash
 end
