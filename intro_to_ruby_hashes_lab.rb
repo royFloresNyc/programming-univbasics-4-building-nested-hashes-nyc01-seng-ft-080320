@@ -29,7 +29,7 @@ def monopoly_with_third_tier
     :three_pieces_owned = 100,
     :four_pieces_owned = 200
   }
-  new_hash[:railroads][:names][:reading_railroads] = {}
+  new_hash[:railroads][:names][:reading_railroad] = {}
   new_hash
 end
 
